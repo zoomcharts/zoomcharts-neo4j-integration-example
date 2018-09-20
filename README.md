@@ -1,6 +1,6 @@
 # ZoomCharts Neo4j integration example
 
-![image of application](./img/neo4j-netchart-screen.png)
+![image of application](./zoomcharts-neo4j-dataFunction/img/neo4j-netchart-screen.png)
 
 ## Stack
 
