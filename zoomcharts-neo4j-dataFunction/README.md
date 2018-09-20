@@ -1,4 +1,4 @@
-# ZoomCharts Neo4j integration example
+# Neo4j NetChart example - neo4j-driver
 
 ![image of application](./img/neo4j-netchart-screen.png)
 
